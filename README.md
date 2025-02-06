@@ -9,7 +9,7 @@ Affinity Designer 2 Electrical  Asset which include circuit symbols for drawing 
 
 ## Usage and Recommended Settings
 
-1. [Download](https://github.com/keikawa/affinity-circuit-symbols-asset/raw/main/Schematic.afassets) and import Schematic.afassets. How to import assets is described in [this page](https://affinity.help/designer/en-US.lproj/index.html?page=pages/Appendix/importingAssets.html?title=Importing%20assets).
+1. [Download]([https://github.com/keikawa/affinity-circuit-symbols-asset/raw/main/Schematic.afassets](https://github.com/elmisa562/AffrinityASSESTS/blob/main/Elecrtrical.afassets)) and import Schematic.afassets. How to import assets is described in [this page](https://affinity.help/designer/en-US.lproj/index.html?page=pages/Appendix/importingAssets.html?title=Importing%20assets).
 
 2. Enable snapping, and turn on "Snap to object bounding boxes".
 
