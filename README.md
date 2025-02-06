@@ -15,7 +15,7 @@ Affinity Designer 2 Electrical  Asset which include circuit symbols for drawing 
 
 2. Enable snapping, and turn on "Snap to object bounding boxes".
 
-<img src="https://user-images.githubusercontent.com/37934321/184475175-5b4ee452-1b54-4226-b672-80a92bed1584.png" width="320px">
+![Image](https://github.com/user-attachments/assets/3d0ecdac-b2fe-45e1-95fd-7e0794099156)
 
 3. Set grid spacing to '5 px' and divisions to '5' as follows:
 
