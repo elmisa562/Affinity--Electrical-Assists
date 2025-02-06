@@ -19,7 +19,7 @@ Affinity Designer 2 Electrical  Asset which include circuit symbols for drawing 
 
 <img src="https://user-images.githubusercontent.com/37934321/124695947-21dc5480-df1f-11eb-8695-b50e777268e2.png" width="640px">
 
-Tips: The schematic symbols are designed with 1-pt line width. To draw the wiring, you can use a "Pen Tool" with a 1-pt line width.
+
 
 ## Licence
 
