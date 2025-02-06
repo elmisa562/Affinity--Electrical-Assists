@@ -3,7 +3,7 @@ Affinity Designer 2 Electrical  Asset which include circuit symbols for drawing 
 
 ## Screen shot
 
-<img src="https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png" width="800px">
+<img src="[https://user-images.githubusercontent.com/37934321/124695670-9cf13b00-df1e-11eb-945e-ca4a56c5a554.png](https://github.com/user-attachments/assets/eb4e645e-f07c-4550-9ed7-a00b4763ab1c)" width="800px">
 
 <img src="https://user-images.githubusercontent.com/37934321/184477590-231a4940-c93d-4773-83d0-ed97f0395392.png" width="800px">
 
